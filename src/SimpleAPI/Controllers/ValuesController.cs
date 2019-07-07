@@ -29,7 +29,7 @@ namespace SimpleAPI.Controllers
             {
                 return "Justyna Dudek";
             }
-            else return "empty";
+            else return "Empty string";
         }
 
         // POST api/values
